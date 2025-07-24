@@ -1,6 +1,6 @@
 # 🏝️ Tourism Agency Database System
 
-This project is a comprehensive **database system for a tourism agency**, developed as part of the Pure_CS_AMMA course. The system manages key entities such as employees, customers, tours, transportation, and site visits — aiming to improve service quality, operational efficiency, and decision-making in the tourism industry.
+This project is a comprehensive **database system for a tourism agency**, The system manages key entities such as employees, customers, tours, transportation, and site visits — aiming to improve service quality, operational efficiency, and decision-making in the tourism industry.
 
 ## 👥 Team Members
 
