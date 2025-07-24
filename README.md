@@ -2,12 +2,6 @@
 
 This project is a comprehensive **database system for a tourism agency**, The system manages key entities such as employees, customers, tours, transportation, and site visits — aiming to improve service quality, operational efficiency, and decision-making in the tourism industry.
 
-## 👥 Team Members
-
-- Mohamed Tamer Morsi  
-- Mariam Ayman Ismail  
-- Ahmed Mohamed Elsayed  
-- Abdalla Ahmed Wahba
 
 ## 📌 Problem Statement
 
